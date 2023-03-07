@@ -1,0 +1,25 @@
+body{
+    background-color: #053c85;
+    text-align: justify;
+}
+nav ul{
+    list-style-type: none;
+    margin: 1px 0;
+    padding:0;
+    overflow:hidden;
+    background-color: #053c85;
+
+}
+nav li{
+    float: left;
+}
+nav li a{
+    display: block;
+    color: #2972e0;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: rgba(4, 0, 255, 0.774);
+}
